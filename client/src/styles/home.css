@@ -1,0 +1,20 @@
+.selection-card {
+  color: #000000 !important;
+}
+
+.selection-card:hover {
+  background-color: #292b2c !important;
+  color: #ffffff !important;
+  cursor: pointer;
+}
+
+.all-in-all {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.bg-dark-opacity {
+  background-color: #ebebebde !important;
+}

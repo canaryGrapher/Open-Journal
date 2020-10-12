@@ -1,0 +1,20 @@
+.radio-buttons {
+      border-width: 2px;
+      border-color: rgb(243, 243, 243) !important;
+      border-style: solid;
+      background-color: #292b2c !important;
+}
+
+.selected-radio {
+      background-image: radial-gradient(rgb(120, 188, 219), rgb(175, 113, 211)) !important;
+      border-color: rgba(243, 243, 243, 0) !important;
+}
+
+.btn:focus {
+      border: 0;
+      box-shadow: none !important;
+}
+
+.bg-dark-lite {
+      background-color: #2b2b2b;
+}

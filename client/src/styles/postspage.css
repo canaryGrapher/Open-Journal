@@ -1,0 +1,31 @@
+* {
+  font-size: 1.5rem;
+}
+
+.content-title {
+  color: #4267b2;
+}
+
+.new-post-button {
+  background-color: #4267b2;
+  color: rgb(243, 243, 243);
+  border-radius: 20px;
+  width: fit-content;
+  padding: 10px 30px;
+  height: 4rem;
+}
+
+.new-post-button:hover {
+  color: #eeeeee;
+  background-color: rgb(85, 85, 85);
+  cursor: pointer;
+}
+
+.posts-container {
+  min-height: 100vh;
+  padding-top: 60vh;
+  background-image: url('https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

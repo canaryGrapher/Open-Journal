@@ -1,0 +1,62 @@
+.submit-button-post {
+  background-color: blueviolet;
+  color: #ffffff;
+  border: 0;
+}
+
+.submit-button-post:hover {
+  background-color: #ffffff;
+  color: blueviolet;
+  border-color: blueviolet;
+  border-width: 0.5px;
+  border-style: solid;
+  cursor: pointer;
+}
+
+.cancel-button-post {
+  background-color: #d9534f;
+  color: #ffffff;
+  border: 0;
+}
+
+.cancel-button-post:hover {
+  background-color: #ffffff;
+  color: #d9534f;
+  border-color: #d9534f;
+  border-width: 0.5px;
+  border-style: solid;
+  cursor: pointer;
+}
+
+.form-control {
+  background-color: rgb(0, 68, 100) !important;
+  color: #ffffff !important;
+}
+
+::placeholder {
+  color: rgb(187, 187, 187) !important;
+}
+
+.close-button {
+  font-size: 40px;
+  text-align: center;
+  line-height: 60px;
+  cursor: pointer;
+  color: red;
+}
+
+.close-button:hover {
+  border-style: solid;
+  border-width: 2px;
+}
+
+.overlay {
+  background-image: url('https://image.freepik.com/free-vector/vector-illustration-cosmonaut_1441-11.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.form-container {
+  color: #ffffff;
+}
