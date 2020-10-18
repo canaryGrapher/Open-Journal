@@ -12,4 +12,16 @@ If you have been looking for an e-journal for yourself and haven't had any luck,
  - Remove an existing post
  - Search older posts
  
- ![Homepage of open journal](https://live.staticflickr.com/65535/50476947451_1e837b42be_o.png)
+ 
+ ### Homepage
+ The homepage consists of some useful stats on your post activity. It tells you how many posts have you made, and when was the last time you made a post.
+ There are three links on this page -
+  - Post page: View all the posts you have ever made
+  - New Post page: Create a new post
+  - Search page: Search the posts you have made to delete, edit or view it.
+    
+ ![](https://live.staticflickr.com/65535/50476947451_130b506484_b.jpg)
+
+This page also displays a random quote on every refresh, powered by [Quotable](https://github.com/lukePeavey/quotable) by [Luke Peavey](https://github.com/lukePeavey)
+
+### New Post Page
