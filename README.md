@@ -1,10 +1,10 @@
-# Your personal journal
+# Your personal journal)
+
+![](https://github.com/canaryGrapher/Open-Journal/blob/master/client/src/resources/logo.png?raw=true) 
+
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/canaryGrapher/Open-Journal/releases/tag/v1.0_stable)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/canaryGrapher/Open-Journal/stargazers)
-[!](https://github.com/canaryGrapher/Open-Journal/blob/master/client/src/resources/logo.png?raw=true) 
-
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/canaryGrapher/Open-Journal/releases/tag/v1.0_stable/)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/canaryGrapher/Open-Journal/stargazers/)
 
 If you have been looking for an e-journal for yourself and haven't had any luck, you have come to the right place. This project was created with the purpose of having your personal blogging application running, for only you to access, on your own machine, or on your local server. 
 
