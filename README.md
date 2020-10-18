@@ -1,4 +1,4 @@
-# Your personal journal)
+# Your personal journal
 
 ![](https://github.com/canaryGrapher/Open-Journal/blob/master/client/src/resources/logo.png?raw=true) 
 
