@@ -24,7 +24,7 @@ If you have been looking for an e-journal for yourself and haven't had any luck,
   - New Post page: Create a new post
   - Search page: Search the posts you have made to delete, edit or view it.
     
- ![](https://live.staticflickr.com/65535/50476947451_130b506484_b.jpg)
+ ![](https://live.staticflickr.com/65535/50476947451_130b506484_c.jpg)
 
 This page also displays a random quote on every refresh, powered by [Quotable](https://github.com/lukePeavey/quotable) by [Luke Peavey](https://github.com/lukePeavey) and weather information for your city. The background image changes with respect to the day. All images were grabbed from [Unsplash](https://unsplash.com/).
 
