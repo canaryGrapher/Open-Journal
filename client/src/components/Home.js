@@ -50,6 +50,8 @@ export class Home extends Component {
     this.setState({
       image: imageLocation
     });
+    
+    // change the parameter of q to whatever city you want the weather data for
     await axios
       .get(
         `http://api.openweathermap.org/data/2.5/weather?q=jodhpur&units=metric&appid=${this.state.api_key}`
