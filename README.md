@@ -28,7 +28,8 @@ If you have been looking for an e-journal for yourself and haven't had any luck,
 
 This page also displays a random quote on every refresh, powered by [Quotable](https://github.com/lukePeavey/quotable) by [Luke Peavey](https://github.com/lukePeavey) and weather information for your city. The background image changes with respect to the day. All images were grabbed from [Unsplash](https://unsplash.com/).
 
-#Note: Change the city name for weather info on line 57 of [home.js](https://github.com/canaryGrapher/Open-Journal/edit/master/client/src/components/Home.js).You will also need an API key for this to work. You can get a free one on [home.openweathermap.org](https://home.openweathermap.org/)
+## Note:  
+Change the city name for weather info on line 57 of [home.js](https://github.com/canaryGrapher/Open-Journal/edit/master/client/src/components/Home.js).You will also need an API key for this to work. You can get a free one on [home.openweathermap.org](https://home.openweathermap.org/)
 
 ### New Post Page
 Create new post using this page. Default title is the the date. You can chage it to your liking, or leave it as it is. You can aso add an image for the post. The body of the post oes not take any kind of formatting, like new line, bold, italics or strikethrough. 
